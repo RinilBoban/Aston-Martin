@@ -1,0 +1,38 @@
+.navbar img{
+    height: 70px;
+    width: 130px;
+}
+.col-lg-6 a{
+    color: white;
+}
+.col-lg-6 a:hover{
+    color:cadetblue;
+}
+.col-lg-6{
+    height: 400px;
+    width: 800px;
+    background-color:snow ;
+}
+.news{
+    padding: 80px;
+}
+.news img{
+    height: 800px;
+    width: 1200px;
+}
+.fetish{
+    background-color: black;
+    height: 300px;
+    width: 100%;
+    color: white;
+}
+.col-6 img{
+    height: 170px;
+    width: 400px;
+}
+.mb-3 img{
+    height: 200px;
+}
+.mb-3:hover{
+    box-shadow: 5px 5px 5px #888888;
+}
